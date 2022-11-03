@@ -1,0 +1,18 @@
+body {
+    background-color: yellowgreen;
+}
+
+.button {
+    display: block; 
+    margin: 100px 400px; 
+    padding: 20px 60px; 
+      background-color: #e44b9b; 
+    box-shadow: 0px 6px #f7f8e8; 
+    border-radius: 5px; 
+    font-size: 27px; 
+    text-transform: uppercase; 
+    text-decoration: none; 
+    transition: 0.2s; 
+    color: #f7f8e8; 
+    text-align: center;
+}
